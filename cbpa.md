@@ -1,8 +1,3 @@
----
-layout: page
-title: Codebase Best Practices Audit
-permalink: /cbpa/
----
 ## **Your Drupal Codebases Are Black Holes**
 
 ***You*** **don’t know Drupal inside and out.** Client emails turn into fires; bugs turn into epics. You suspect that your sprints aren’t running smoothly but don’t know why. You’ve fired a developer and worried about what they left behind. **You tell clients that you have** **Senior Drupal Developers™,** **but do you really know that?** 
