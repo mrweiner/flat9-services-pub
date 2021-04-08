@@ -27,7 +27,7 @@ Within a couple of weeks you will receive a personalized, codebase-specific repo
 
 ## **Ready To Get Started?**
 
-Are you ready to bring your Drupal codebase up to snuff? Great! Contact me at mrweiner@gmail.com to apply for your personalized audit. 
+Are you ready to bring your Drupal codebase up to snuff? Great! Contact me at matt@mattweinercreates.com to apply for your personalized audit. 
 
 ## **100% Money-Back Guarantee!**
 
